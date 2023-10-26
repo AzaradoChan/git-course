@@ -1,4 +1,4 @@
-#skdjajshfsa Tutorial de Git
+# Tutorial de Git
 Push 26/10/2023
 
 ## Testando o Vim
