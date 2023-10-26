@@ -5,5 +5,3 @@ Push 26/10/2023
 Editor de texto pelo bash.
 
 ### Aula de tags do git
-sdasçdlaksdkjasd
-

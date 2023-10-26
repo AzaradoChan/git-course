@@ -1,6 +1,0 @@
-Reverte o estado para o branch informado
-
-git log (pegar o hash do commit que deseja desfazer)
-
-git revert <hash-do-commit>
-
