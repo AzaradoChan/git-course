@@ -1,0 +1,5 @@
+criar Stash: git stash
+
+listar stahs: git stash list
+
+aplicar stash: git slash apply

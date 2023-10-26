@@ -1,0 +1,3 @@
+permite ignorar todos os arquivos com alguma extensão (*.<extensão>)
+ou um arquivo específico (<nome-do-arquivo>.<extensão>)
+

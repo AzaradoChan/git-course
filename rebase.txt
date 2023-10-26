@@ -1,0 +1,3 @@
+O Rebase remove a branch informada desde seu ponto de criação
+e adiciona o último commit à branch selecionada
+
