@@ -1,0 +1,5 @@
+Versionamento do projeto, separado no github na aba releases.
+
+git tag -a 1.0.0 -m "Readme finalizado"
+
+git push origin master --tags
