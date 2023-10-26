@@ -1,0 +1,6 @@
+git log (pegar o código do commit)
+
+git revert <codigo-commit>
+
+
+Desfaz as alterações realizadas na branch antes do momento do commit enviado
