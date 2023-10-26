@@ -1,0 +1,7 @@
+git tag (verifica tags)
+
+git tag -d <tag> (apagar local)
+
+git push origin :<tag> (apagar tags na origin)
+
+git push origin :<branch> (apagar branch na origin)
